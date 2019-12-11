@@ -1,20 +1,3 @@
-Will this create another release?
-check for change!
-
-
-Look for all these changes! 
-9th
-10th
-8th
-
-3rd
-4th
-5th
-6th
-Let check for this!
-
-7th
-
 def nonprodAcct = '345248387622'
 def nonprodBucket = 'sts-np-compliance-bundles'
 def prodAcct = '737855703655'
