@@ -22,7 +22,7 @@ pipeline {
         
         stage(‘Build’) {
             steps {
-                sh "zip ${commitID()}.zip main.py"
+                sh "zip ${commitID()}.zip *.py"
             }
         }
         
